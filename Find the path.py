@@ -1,9 +1,5 @@
 #!/usr/bin/python
-#
-### Student Info
-# Smith, Christopher, 02386569, 159.302
 # Assignment 1: 8 Puzzle.
-#
 ### Language
 # This assignment was written in Python. An open source, interpreted language
 # with a mix of imperative, OO and functional programming. Syntax is simple
